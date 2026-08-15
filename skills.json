@@ -1,0 +1,1844 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-08-16",
+  "total_skills": 78,
+  "categories": {
+    "analysis-skills": [
+      "get-to-know-a-client",
+      "investigate-before-recommend",
+      "production-system-audit",
+      "similarweb-analytics",
+      "stock-analysis",
+      "system-architect",
+      "digital-product-inventor",
+      "meta-ads-analyzer"
+    ],
+    "automation-skills": [
+      "autonomous-github-sync",
+      "autonomous-sync-script",
+      "github-gem-seeker",
+      "organize-github-repos",
+      "using-git-worktrees",
+      "ios-testflight-github-actions"
+    ],
+    "design-skills": [
+      "brainstorm-logos",
+      "brand-driven-ux-overhaul",
+      "canvas-design",
+      "excel-generator",
+      "frontend-design",
+      "inspirational-music-video-production",
+      "theme-factory",
+      "video-generator"
+    ],
+    "development-skills": [
+      "multiplayer-game-builder",
+      "promo-code-system",
+      "realistic-ai-persona-builder",
+      "role-based-access-control",
+      "vertical-expansion-blueprint",
+      "serverless-debugging"
+    ],
+    "integration-skills": [
+      "manus-mcp-configurator",
+      "mcp-auto-recovery",
+      "mcp-builder",
+      "mcp-connector-tester",
+      "mcp-ecosystem-optimizer",
+      "voice-ai-integration"
+    ],
+    "specialized": [
+      "app-store-submission-packager",
+      "work-access-demo-generator"
+    ],
+    "tier1-foundation": [
+      "api-endpoint-builder",
+      "database-schema-generator",
+      "testing-framework"
+    ],
+    "tier2-automation": [
+      "deployment-automation",
+      "error-monitoring-setup",
+      "github-workflow-automation"
+    ],
+    "tier3-advanced": [
+      "analytics-dashboard",
+      "email-system-builder",
+      "feature-flag-system",
+      "user-authentication-system"
+    ],
+    "tier4-specialized": [
+      "cron-job-scheduler",
+      "file-upload-system",
+      "notification-system",
+      "payment-integration",
+      "search-implementation"
+    ],
+    "utility-skills": [
+      "doc-coauthoring",
+      "docx",
+      "internet-skill-finder",
+      "pdf",
+      "pptx",
+      "project-handoff-ingestion",
+      "skill-creator",
+      "skill-demo-builder",
+      "xlsx",
+      "debug-mining-engine",
+      "serverless-debugging-utility",
+      "skill-arsenal-builder"
+    ],
+    "workflow-skills": [
+      "brainstorming",
+      "dispatching-parallel-agents",
+      "executing-plans",
+      "feature-verification",
+      "finishing-a-development-branch",
+      "receiving-code-review",
+      "requesting-code-review",
+      "skill-development-workflow",
+      "subagent-driven-development",
+      "systematic-debugging",
+      "systematic-feature-builder",
+      "test-driven-development",
+      "verification-before-completion",
+      "writing-plans"
+    ],
+    "meta-skills": [
+      "full-stack-builder"
+    ]
+  },
+  "skills": {
+    "get-to-know-a-client": {
+      "name": "get-to-know-a-client",
+      "description": "Deep client analysis, product design, and implementation planning. Use when analyzing client needs, designing solutions, creating technical architecture, or building implementation guides for client projects. Combines pattern recognition, solution design, and step-by-step build plans. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "analysis-skills",
+      "path": "skills/analysis-skills/get-to-know-a-client/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "investigate-before-recommend": {
+      "name": "investigate-before-recommend",
+      "description": "Prevent AI drift by investigating existing infrastructure before making recommendations. Use when: analyzing user's systems, recommending tools/integrations, proposing architecture changes, or any time you're about to suggest adding something that might already exist. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "analysis-skills",
+      "path": "skills/analysis-skills/investigate-before-recommend/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "production-system-audit": {
+      "name": "production-system-audit",
+      "description": "Comprehensive system audit methodology for production web applications. Use when auditing systems before launch, identifying technical debt, troubleshooting systematic issues, preparing for security reviews, or creating improvement roadmaps. Systematically audits database schema, API endpoints, external integrations, performance, security, and monitoring across all layers. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "analysis-skills",
+      "path": "skills/analysis-skills/production-system-audit/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "similarweb-analytics": {
+      "name": "similarweb-analytics",
+      "description": "Analyze websites and domains using SimilarWeb traffic data. Get traffic metrics, engagement stats, global rankings, traffic sources, and geographic distribution for comprehensive website research. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "analysis-skills",
+      "path": "skills/analysis-skills/similarweb-analytics/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "stock-analysis": {
+      "name": "stock-analysis",
+      "description": "Analyze stocks and companies using financial market data. Get company profiles, technical insights, price charts, insider holdings, and SEC filings for comprehensive stock research. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "analysis-skills",
+      "path": "skills/analysis-skills/stock-analysis/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "system-architect": {
+      "name": "system-architect",
+      "description": "Design complex systems from vision to validated architecture using pattern recognition, wisdom extraction, and challenge-driven validation. Use when building infrastructure, organizational systems, or any complex architecture that needs to survive hard questions before implementation. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "analysis-skills",
+      "path": "skills/analysis-skills/system-architect/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "autonomous-github-sync": {
+      "name": "autonomous-github-sync",
+      "description": "Autonomous GitHub commit and push operations using Google Drive as an intermediary. Use when you need to commit and push code changes to the user's GitHub repository without manual intervention. Works by syncing files through Google Drive to the user's local machine, then committing and pushing automatically. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "automation-skills",
+      "path": "skills/automation-skills/autonomous-github-sync/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "autonomous-sync-script": {
+      "name": "autonomous-sync-script",
+      "description": "Automate GitHub sync via Google Drive with a single command. Use when you need to commit and push code/skills to GitHub without manual file transfer. Uploads to Google Drive, then provides a one-line command for automatic commit and push. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "automation-skills",
+      "path": "skills/automation-skills/autonomous-sync-script/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "github-gem-seeker": {
+      "name": "github-gem-seeker",
+      "description": "Search GitHub for battle-tested solutions instead of reinventing the wheel. Use when the user's problem is universal enough that open source developers have probably solved it already—especially for: format conversion (video/audio/image/document), media downloading, file manipulation, web scraping/archiving, automation scripts, and CLI tools. Prefer this skill over writing custom code for well-trodden problems. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "automation-skills",
+      "path": "skills/automation-skills/github-gem-seeker/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "organize-github-repos": {
+      "name": "organize-github-repos",
+      "description": "Verify and maintain alignment between Supabase (Maverick Town) and connected GitHub repositories to prevent data loss from miscommunication. Use when you need to audit repository states, detect misalignments, or ensure data integrity across GitHub and Supabase. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "automation-skills",
+      "path": "skills/automation-skills/organize-github-repos/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "using-git-worktrees": {
+      "name": "using-git-worktrees",
+      "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - creates isolated git worktrees with smart directory selection and safety verification. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "automation-skills",
+      "path": "skills/automation-skills/using-git-worktrees/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "brainstorm-logos": {
+      "name": "brainstorm-logos",
+      "description": "Deep strategic brainstorming with pattern recognition and execution planning. Use this skill AFTER basic brainstorming when user needs to structure raw ideas, reveal hidden patterns, extract wisdom, and create actionable multi-phase execution plans. Complements the brainstorming skill by adding deep analysis layer. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "design-skills",
+      "path": "skills/design-skills/brainstorm-logos/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "brand-driven-ux-overhaul": {
+      "name": "brand-driven-ux-overhaul",
+      "description": "Systematic UX overhaul workflow driven by brand identity and user feedback. Use when redesigning interfaces, rebranding applications, simplifying navigation, or improving visual identity. Includes brainstorming methodology, design system creation, and implementation planning. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "design-skills",
+      "path": "skills/design-skills/brand-driven-ux-overhaul/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "canvas-design": {
+      "name": "canvas-design",
+      "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "design-skills",
+      "path": "skills/design-skills/canvas-design/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "excel-generator": {
+      "name": "excel-generator",
+      "description": "Professional Excel spreadsheet creation with a focus on aesthetics and data analysis. Use when creating spreadsheets for organizing, analyzing, and presenting structured data in a clear and professional format. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "design-skills",
+      "path": "skills/design-skills/excel-generator/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "frontend-design": {
+      "name": "frontend-design",
+      "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "design-skills",
+      "path": "skills/design-skills/frontend-design/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "inspirational-music-video-production": {
+      "name": "inspirational-music-video-production",
+      "description": "Professional workflow for creating inspirational music videos with emotional arc mapping, symbolic visual vocabulary, cultural symbolism integration, and music-to-visual synchronization. Use when creating motivational videos, transformation narratives, spiritual journey videos, or any music video meant to inspire and uplift. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "design-skills",
+      "path": "skills/design-skills/inspirational-music-video-production/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "theme-factory": {
+      "name": "theme-factory",
+      "description": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "design-skills",
+      "path": "skills/design-skills/theme-factory/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "video-generator": {
+      "name": "video-generator",
+      "description": "Professional AI video production workflow. Use when creating videos, short films, commercials, or any video content using AI generation tools. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "design-skills",
+      "path": "skills/design-skills/video-generator/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "multiplayer-game-builder": {
+      "name": "multiplayer-game-builder",
+      "description": "Build multiplayer turn-based games using template-based rapid development, TDD, and real-time Socket.IO integration. Use when creating card games, board games, or any turn-based multiplayer game with real-time synchronization. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "development-skills",
+      "path": "skills/development-skills/multiplayer-game-builder/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "promo-code-system": {
+      "name": "promo-code-system",
+      "description": "Add, manage, and track promotional/discount codes in web applications. Use when adding promo codes to existing apps, creating discount code systems, tracking code usage, implementing coupon functionality, managing promotional campaigns, or when users ask about discount codes, free access codes, or promotional features. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "development-skills",
+      "path": "skills/development-skills/promo-code-system/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "realistic-ai-persona-builder": {
+      "name": "realistic-ai-persona-builder",
+      "description": "Build realistic, challenging AI personas with resistance-rapport dynamics for training scenarios. Use when creating AI personas that should resist, challenge, and make users work for progress (sales training, interview practice, negotiation training, therapy practice). NOT for helpful AI assistants. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "development-skills",
+      "path": "skills/development-skills/realistic-ai-persona-builder/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "role-based-access-control": {
+      "name": "role-based-access-control",
+      "description": "Implement role-based access control (RBAC) in web applications using tRPC and React. Use when adding admin/manager-only features, restricting endpoints by user role, or implementing permission systems in full-stack TypeScript applications. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "development-skills",
+      "path": "skills/development-skills/role-based-access-control/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "vertical-expansion-blueprint": {
+      "name": "vertical-expansion-blueprint",
+      "description": "Manual guide for adapting AI roleplay training platforms to new vertical industries (dating, therapy, sales, etc.) with complete config examples and step-by-step cloning instructions. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "development-skills",
+      "path": "skills/development-skills/vertical-expansion-blueprint/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "manus-mcp-configurator": {
+      "name": "manus-mcp-configurator",
+      "description": "Automate Manus MCP server configuration. Use when adding, removing, listing, or validating MCP servers in Manus settings without manual JSON editing. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "integration-skills",
+      "path": "skills/integration-skills/manus-mcp-configurator/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "mcp-auto-recovery": {
+      "name": "mcp-auto-recovery",
+      "description": "Automatically diagnose and recover from MCP server connection issues. Use when any `manus-mcp-cli` command fails due to connection, authentication, or availability errors. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "integration-skills",
+      "path": "skills/integration-skills/mcp-auto-recovery/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "mcp-builder": {
+      "name": "mcp-builder",
+      "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK). Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [
+        "mcp",
+        "integration",
+        "api"
+      ],
+      "time_saved": "3 hours",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 4,
+      "status": "production",
+      "category": "integration-skills",
+      "path": "skills/integration-skills/mcp-builder/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "mcp-connector-tester": {
+      "name": "mcp-connector-tester",
+      "description": "Test and document MCP (Model Context Protocol) connectors. Use when users request to test, explore, demonstrate, or document an MCP connector's capabilities, authentication setup, or features. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "integration-skills",
+      "path": "skills/integration-skills/mcp-connector-tester/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "mcp-ecosystem-optimizer": {
+      "name": "mcp-ecosystem-optimizer",
+      "description": "Comprehensive workflow for analyzing, improving, and expanding Model Context Protocol (MCP) server ecosystems. Use when users request: MCP ecosystem analysis, recommendations for new MCP servers, improving MCP infrastructure, finding tools to manage MCP servers, creating MCP management dashboards, or optimizing MCP workflows. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [
+        "mcp",
+        "optimization",
+        "ecosystem"
+      ],
+      "time_saved": "2 hours",
+      "dependencies": [],
+      "complements": [
+        "mcp-builder",
+        "mcp-connector-tester"
+      ],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "integration-skills",
+      "path": "skills/integration-skills/mcp-ecosystem-optimizer/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "voice-ai-integration": {
+      "name": "voice-ai-integration",
+      "description": "Build voice AI training platforms with Hume EVI, Twilio, and tRPC. Use when creating roleplay systems, voice call integrations, phone-based training apps, or conversational AI platforms with emotional intelligence. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "integration-skills",
+      "path": "skills/integration-skills/voice-ai-integration/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "api-endpoint-builder": {
+      "name": "api-endpoint-builder",
+      "description": "Generate production-ready API endpoints from natural language descriptions. Supports Next.js App Router, tRPC, and Express. Includes authentication, validation, error handling, and best practices. Use when building REST or tRPC APIs. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [
+        "api",
+        "backend",
+        "trpc",
+        "express",
+        "endpoints"
+      ],
+      "time_saved": "45 minutes",
+      "dependencies": [
+        "database-schema-generator"
+      ],
+      "complements": [
+        "testing-framework",
+        "user-authentication-system"
+      ],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier1-foundation",
+      "path": "skills/tier1-foundation/api-endpoint-builder/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "database-schema-generator": {
+      "name": "database-schema-generator",
+      "description": "Generate PostgreSQL/Supabase database schemas from natural language descriptions. Use when creating new databases, adding tables to existing projects, or designing data models. Includes RLS policies, TypeScript types, and migration files. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [
+        "database",
+        "schema",
+        "postgres",
+        "supabase",
+        "sql"
+      ],
+      "time_saved": "1.5 hours",
+      "dependencies": [],
+      "complements": [
+        "api-endpoint-builder",
+        "testing-framework"
+      ],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier1-foundation",
+      "path": "skills/tier1-foundation/database-schema-generator/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "testing-framework": {
+      "name": "testing-framework",
+      "description": "Generate comprehensive tests (unit, integration, E2E) from descriptions or source code. Supports Vitest, Jest, and Playwright. Includes mocking, assertions, and coverage configuration. Use when writing tests for functions, APIs, or user flows. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [
+        "testing",
+        "qa",
+        "jest",
+        "pytest",
+        "tdd"
+      ],
+      "time_saved": "30 minutes",
+      "dependencies": [],
+      "complements": [
+        "api-endpoint-builder",
+        "database-schema-generator"
+      ],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier1-foundation",
+      "path": "skills/tier1-foundation/testing-framework/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "deployment-automation": {
+      "name": "deployment-automation",
+      "description": "One-command deployment to Vercel, Railway, Netlify, and Heroku. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [
+        "deployment",
+        "ci-cd",
+        "automation",
+        "vercel",
+        "docker"
+      ],
+      "time_saved": "2 hours",
+      "dependencies": [
+        "testing-framework"
+      ],
+      "complements": [
+        "github-workflow-automation",
+        "error-monitoring-setup"
+      ],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier2-automation",
+      "path": "skills/tier2-automation/deployment-automation/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "error-monitoring-setup": {
+      "name": "error-monitoring-setup",
+      "description": "Automated Sentry and error tracking setup for production applications. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [
+        "monitoring",
+        "errors",
+        "sentry",
+        "logging"
+      ],
+      "time_saved": "45 minutes",
+      "dependencies": [],
+      "complements": [
+        "deployment-automation"
+      ],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier2-automation",
+      "path": "skills/tier2-automation/error-monitoring-setup/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "github-workflow-automation": {
+      "name": "github-workflow-automation",
+      "description": "Automate Git commits, pull requests, releases, and CI/CD workflows. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [
+        "github",
+        "ci-cd",
+        "automation",
+        "workflows"
+      ],
+      "time_saved": "1 hour",
+      "dependencies": [],
+      "complements": [
+        "deployment-automation"
+      ],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier2-automation",
+      "path": "skills/tier2-automation/github-workflow-automation/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "analytics-dashboard": {
+      "name": "analytics-dashboard",
+      "description": "User behavior tracking and analytics dashboards. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [
+        "analytics",
+        "dashboard",
+        "metrics",
+        "visualization"
+      ],
+      "time_saved": "2 hours",
+      "dependencies": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier3-advanced",
+      "path": "skills/tier3-advanced/analytics-dashboard/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "email-system-builder": {
+      "name": "email-system-builder",
+      "description": "Transactional and marketing emails with templates and tracking. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [
+        "email",
+        "notifications",
+        "messaging",
+        "sendgrid"
+      ],
+      "time_saved": "1.5 hours",
+      "dependencies": [
+        "database-schema-generator"
+      ],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier3-advanced",
+      "path": "skills/tier3-advanced/email-system-builder/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "feature-flag-system": {
+      "name": "feature-flag-system",
+      "description": "Toggle features without deployment using feature flags. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [
+        "feature-flags",
+        "configuration",
+        "deployment"
+      ],
+      "time_saved": "1 hour",
+      "dependencies": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier3-advanced",
+      "path": "skills/tier3-advanced/feature-flag-system/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "user-authentication-system": {
+      "name": "user-authentication-system",
+      "description": "Complete authentication with OAuth, session management, and security. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [
+        "auth",
+        "authentication",
+        "security",
+        "oauth",
+        "jwt"
+      ],
+      "time_saved": "3 hours",
+      "dependencies": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "complements": [
+        "testing-framework"
+      ],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier3-advanced",
+      "path": "skills/tier3-advanced/user-authentication-system/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "cron-job-scheduler": {
+      "name": "cron-job-scheduler",
+      "description": "Background jobs and scheduled tasks. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [
+        "cron",
+        "scheduling",
+        "jobs",
+        "automation"
+      ],
+      "time_saved": "1.5 hours",
+      "dependencies": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier4-specialized",
+      "path": "skills/tier4-specialized/cron-job-scheduler/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "file-upload-system": {
+      "name": "file-upload-system",
+      "description": "S3/R2 file uploads with optimization and security. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [
+        "files",
+        "uploads",
+        "storage",
+        "s3"
+      ],
+      "time_saved": "2 hours",
+      "dependencies": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier4-specialized",
+      "path": "skills/tier4-specialized/file-upload-system/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "notification-system": {
+      "name": "notification-system",
+      "description": "In-app, push, and email notifications. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [
+        "notifications",
+        "alerts",
+        "real-time"
+      ],
+      "time_saved": "2 hours",
+      "dependencies": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "complements": [
+        "email-system-builder"
+      ],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier4-specialized",
+      "path": "skills/tier4-specialized/notification-system/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "payment-integration": {
+      "name": "payment-integration",
+      "description": "Stripe payment integration with checkout and subscriptions. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [
+        "payments",
+        "stripe",
+        "billing",
+        "subscriptions"
+      ],
+      "time_saved": "4 hours",
+      "dependencies": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "complements": [
+        "user-authentication-system"
+      ],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier4-specialized",
+      "path": "skills/tier4-specialized/payment-integration/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "search-implementation": {
+      "name": "search-implementation",
+      "description": "Full-text search with Algolia/Typesense. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [
+        "search",
+        "elasticsearch",
+        "full-text"
+      ],
+      "time_saved": "3 hours",
+      "dependencies": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier4-specialized",
+      "path": "skills/tier4-specialized/search-implementation/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "doc-coauthoring": {
+      "name": "doc-coauthoring",
+      "description": "Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structured content. This workflow helps users efficiently transfer context, refine content through iteration, and verify the doc works for readers. Trigger when user mentions writing docs, creating proposals, drafting specs, or similar documentation tasks. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "utility-skills",
+      "path": "skills/utility-skills/doc-coauthoring/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "docx": {
+      "name": "docx",
+      "description": "Use this skill whenever the user wants to create, read, edit, or manipulate Word documents (.docx files). Triggers include: any mention of \"Word doc\", \"word document\", \".docx\", or requests to produce professional documents with formatting like tables of contents, headings, page numbers, or letterheads. Also use when extracting or reorganizing content from .docx files, inserting or replacing images in documents, performing find-and-replace in Word files, working with tracked changes or comments, or converting content into a polished Word document. If the user asks for a \"report\", \"memo\", \"letter\", \"template\", or similar deliverable as a Word or .docx file, use this skill. Do NOT use for PDFs, spreadsheets, Google Docs, or general coding tasks unrelated to document generation. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "utility-skills",
+      "path": "skills/utility-skills/docx/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "internet-skill-finder": {
+      "name": "internet-skill-finder",
+      "description": "Search and recommend Agent Skills from verified GitHub repositories. Use when users ask to find, discover, search for, or recommend skills/plugins for specific tasks, domains, or workflows. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "utility-skills",
+      "path": "skills/utility-skills/internet-skill-finder/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "pdf": {
+      "name": "pdf",
+      "description": "Use this skill whenever the user wants to do anything with PDF files. This includes reading or extracting text/tables from PDFs, combining or merging multiple PDFs into one, splitting PDFs apart, rotating pages, adding watermarks, creating new PDFs, filling PDF forms, encrypting/decrypting PDFs, extracting images, and OCR on scanned PDFs to make them searchable. If the user mentions a .pdf file or asks to produce one, use this skill. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "utility-skills",
+      "path": "skills/utility-skills/pdf/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "pptx": {
+      "name": "pptx",
+      "description": "Use this skill any time a .pptx file is involved in any way — as input, output, or both. This includes: creating slide decks, pitch decks, or presentations; reading, parsing, or extracting text from any .pptx file (even if the extracted content will be used elsewhere, like in an email or summary); editing, modifying, or updating existing presentations; combining or splitting slide files; working with templates, layouts, speaker notes, or comments. Trigger whenever the user mentions \"deck,\" \"slides,\" \"presentation,\" or references a .pptx filename, regardless of what they plan to do with the content afterward. If a .pptx file needs to be opened, created, or touched, use this skill. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "utility-skills",
+      "path": "skills/utility-skills/pptx/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "project-handoff-ingestion": {
+      "name": "project-handoff-ingestion",
+      "description": "Systematic ingestion and verification of handoff projects from other development environments (Cursor, VS Code, etc.). Use when receiving project handoffs, verifying deployment status, analyzing codebases for the first time, or creating comprehensive system documentation for inherited projects. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "utility-skills",
+      "path": "skills/utility-skills/project-handoff-ingestion/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "serverless-debugging": {
+      "name": "serverless-debugging",
+      "description": "Debug serverless and edge functions where traditional logging is limited. Use when features are deployed but not triggering, logs are missing, or runtime behavior differs from expectations in Supabase Edge Functions, AWS Lambda, Cloudflare Workers, or similar platforms. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "development-skills",
+      "path": "skills/development-skills/serverless-debugging/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "skill-creator": {
+      "name": "skill-creator",
+      "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Manus's capabilities with specialized knowledge, workflows, or tool integrations. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "utility-skills",
+      "path": "skills/utility-skills/skill-creator/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "skill-demo-builder": {
+      "name": "skill-demo-builder",
+      "description": "Systematic workflow for creating excellent demonstrations of skills with complementary examples, comprehensive documentation, and professional packaging. Use when you need to showcase a skill's capabilities, create demo projects, or build reference implementations. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "utility-skills",
+      "path": "skills/utility-skills/skill-demo-builder/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "xlsx": {
+      "name": "xlsx",
+      "description": "Use this skill any time a spreadsheet file is the primary input or output. This means any task where the user wants to: open, read, edit, or fix an existing .xlsx, .xlsm, .csv, or .tsv file (e.g., adding columns, computing formulas, formatting, charting, cleaning messy data); create a new spreadsheet from scratch or from other data sources; or convert between tabular file formats. Trigger especially when the user references a spreadsheet file by name or path — even casually (like \"the xlsx in my downloads\") — and wants something done to it or produced from it. Also trigger for cleaning or restructuring messy tabular data files (malformed rows, misplaced headers, junk data) into proper spreadsheets. The deliverable must be a spreadsheet file. Do NOT trigger when the primary deliverable is a Word document, HTML report, standalone Python script, database pipeline, or Google Sheets API integration, even if tabular data is involved. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "utility-skills",
+      "path": "skills/utility-skills/xlsx/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "brainstorming": {
+      "name": "brainstorming",
+      "description": "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [
+        "workflow",
+        "planning",
+        "requirements",
+        "design"
+      ],
+      "time_saved": "30 minutes",
+      "dependencies": [],
+      "complements": [
+        "writing-plans",
+        "systematic-feature-builder"
+      ],
+      "used_by": [],
+      "quality_rating": 4,
+      "status": "production",
+      "category": "workflow-skills",
+      "path": "skills/workflow-skills/brainstorming/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "dispatching-parallel-agents": {
+      "name": "dispatching-parallel-agents",
+      "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "workflow-skills",
+      "path": "skills/workflow-skills/dispatching-parallel-agents/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "executing-plans": {
+      "name": "executing-plans",
+      "description": "Use when you have a written implementation plan to execute in a separate session with review checkpoints. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "workflow-skills",
+      "path": "skills/workflow-skills/executing-plans/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "feature-verification": {
+      "name": "feature-verification",
+      "description": "Systematic verification of newly implemented features using multi-layer testing. Use when verifying features work after implementation, debugging \"should work but doesn't\" issues, validating deployments, or ensuring code changes are correctly deployed and functional. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "workflow-skills",
+      "path": "skills/workflow-skills/feature-verification/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "finishing-a-development-branch": {
+      "name": "finishing-a-development-branch",
+      "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "workflow-skills",
+      "path": "skills/workflow-skills/finishing-a-development-branch/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "receiving-code-review": {
+      "name": "receiving-code-review",
+      "description": "Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "workflow-skills",
+      "path": "skills/workflow-skills/receiving-code-review/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "requesting-code-review": {
+      "name": "requesting-code-review",
+      "description": "Use when completing tasks, implementing major features, or before merging to verify work meets requirements. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "workflow-skills",
+      "path": "skills/workflow-skills/requesting-code-review/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "skill-development-workflow": {
+      "name": "skill-development-workflow",
+      "description": "Automate the initial setup of a new skill. Use when you want to create a new skill from scratch. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "workflow-skills",
+      "path": "skills/workflow-skills/skill-development-workflow/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "subagent-driven-development": {
+      "name": "subagent-driven-development",
+      "description": "Use when executing implementation plans with independent tasks in the current session. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "workflow-skills",
+      "path": "skills/workflow-skills/subagent-driven-development/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "systematic-debugging": {
+      "name": "systematic-debugging",
+      "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [
+        "debugging",
+        "troubleshooting",
+        "workflow"
+      ],
+      "time_saved": "1 hour",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 4,
+      "status": "production",
+      "category": "workflow-skills",
+      "path": "skills/workflow-skills/systematic-debugging/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "systematic-feature-builder": {
+      "name": "systematic-feature-builder",
+      "description": "Systematic approach to implementing features with detailed planning, tracking, and testing. Use when building new features, adding functionality to existing projects, implementing multi-step requirements, or when user requests organized, methodical development workflow. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [
+        "workflow",
+        "features",
+        "development"
+      ],
+      "time_saved": "2 hours",
+      "dependencies": [
+        "brainstorming",
+        "writing-plans"
+      ],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "workflow-skills",
+      "path": "skills/workflow-skills/systematic-feature-builder/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "test-driven-development": {
+      "name": "test-driven-development",
+      "description": "Use when implementing any feature or bugfix, before writing implementation code. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "workflow-skills",
+      "path": "skills/workflow-skills/test-driven-development/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "verification-before-completion": {
+      "name": "verification-before-completion",
+      "description": "Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "workflow-skills",
+      "path": "skills/workflow-skills/verification-before-completion/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "writing-plans": {
+      "name": "writing-plans",
+      "description": "Use when you have a spec or requirements for a multi-step task, before touching code. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "tags": [
+        "planning",
+        "workflow",
+        "documentation"
+      ],
+      "time_saved": "45 minutes",
+      "dependencies": [
+        "brainstorming"
+      ],
+      "complements": [
+        "systematic-feature-builder"
+      ],
+      "used_by": [],
+      "quality_rating": 4,
+      "status": "production",
+      "category": "workflow-skills",
+      "path": "skills/workflow-skills/writing-plans/SKILL.md",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "app-store-submission-packager": {
+      "name": "app-store-submission-packager",
+      "description": "Generate comprehensive App Store and Google Play submission documentation packages for mobile apps. Use when preparing iOS or Android apps for app store submission, creating submission checklists, generating marketing copy, writing privacy policies, creating TestFlight guides, or packaging all submission materials. Ideal for React Native, Expo, Flutter, or native mobile apps ready for public release. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "path": "app-store-submission-packager/SKILL.md",
+      "category": "specialized",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "digital-product-inventor": {
+      "name": "digital-product-inventor",
+      "description": "Systematic framework for inventing, designing, pricing, and building digital product offers from an existing archive of tools, agents, doctrines, and skills. Use when turning a tool or capability into a sellable product, designing a new digital offer from scratch, going vertical into a new industry with an existing capability, building a product line from an AI agent stack, or creating a launch-ready product with a landing page, pricing strategy, and implementation plan. Combines deep client/market analysis, product architecture design, pricing strategy, landing page generation, and Google Drive delivery into one unified workflow. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "path": "digital-product-inventor/SKILL.md",
+      "category": "analysis-skills",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "ios-testflight-github-actions": {
+      "name": "ios-testflight-github-actions",
+      "description": "Automate iOS TestFlight deployments using GitHub Actions after initial manual setup. Use when setting up CI/CD for iOS apps, automating TestFlight uploads, configuring GitHub Actions workflows for mobile apps, or establishing automated deployment pipelines for React Native, Expo, Flutter, or native iOS projects. Requires one-time manual Apple Developer setup before automation can begin. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "path": "ios-testflight-github-actions/SKILL.md",
+      "category": "automation-skills",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "meta-ads-analyzer": {
+      "name": "meta-ads-analyzer",
+      "description": "Provides expert-level analysis and diagnosis for Meta Ads campaigns. Use this skill to interpret performance data, identify root causes of issues, and generate actionable recommendations, with a special focus on correctly handling the 'Breakdown Effect'. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "path": "meta-ads-analyzer/SKILL.md",
+      "category": "analysis-skills",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "full-stack-builder": {
+      "name": "full-stack-builder",
+      "description": "Build complete full-stack applications end-to-end using orchestrated skills. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "path": "meta-skills/full-stack-builder/SKILL.md",
+      "category": "meta-skills",
+      "type": "meta-skill",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "debug-mining-engine": {
+      "name": "debug-mining-engine",
+      "description": "Capture debugging sessions and turn fixes into reusable skills, code snippets, and pattern guides. Use when preserving debugging knowledge, building reusable solutions from errors, or mining a fix into a repeatable asset. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "path": "skills/utility-skills/debug-mining-engine/SKILL.md",
+      "category": "utility-skills",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "serverless-debugging-utility": {
+      "name": "serverless-debugging",
+      "description": "Debug serverless and edge functions where traditional logging is limited. Use when features are deployed but not triggering, logs are missing, or runtime behavior differs from expectations in Supabase Edge Functions, AWS Lambda, Cloudflare Workers, or similar platforms. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "path": "skills/utility-skills/serverless-debugging/SKILL.md",
+      "category": "utility-skills",
+      "registry_key": "serverless-debugging-utility",
+      "source_name": "serverless-debugging",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "skill-arsenal-builder": {
+      "name": "skill-arsenal-builder",
+      "description": "Build and organize a unified skill collection with discovery, registry, orchestration, shared utilities, and cross-terminal deployment. Use when creating, auditing, organizing, composing, or synchronizing a multi-skill arsenal. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "path": "skills/utility-skills/skill-arsenal-builder/SKILL.md",
+      "category": "utility-skills",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    },
+    "work-access-demo-generator": {
+      "name": "work-access-demo-generator",
+      "description": "Generate comprehensive demonstrations showing how to access projects and work across different environments (Manus terminals, personal computers, team collaboration). Use when users ask \"how do I access this from another terminal/computer\", \"how do I share this with my team\", \"how do I get this on my Mac\", or need clarification on Manus persistence vs GitHub usage. Apply automatically when the request matches; the user does not need to mention this skill.",
+      "path": "work-access-demo-generator/SKILL.md",
+      "category": "specialized",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "author": "Tehseen Tech",
+      "maintainer": "Tehseen Tech"
+    }
+  },
+  "meta_skills": {
+    "full-stack-builder": {
+      "name": "full-stack-builder",
+      "description": "Build complete full-stack applications end-to-end using orchestrated skills",
+      "path": "meta-skills/full-stack-builder/SKILL.md",
+      "type": "meta-skill"
+    }
+  },
+  "dependency_graph": {
+    "get-to-know-a-client": {
+      "before": [],
+      "after": []
+    },
+    "investigate-before-recommend": {
+      "before": [],
+      "after": []
+    },
+    "production-system-audit": {
+      "before": [],
+      "after": []
+    },
+    "similarweb-analytics": {
+      "before": [],
+      "after": []
+    },
+    "stock-analysis": {
+      "before": [],
+      "after": []
+    },
+    "system-architect": {
+      "before": [],
+      "after": []
+    },
+    "autonomous-github-sync": {
+      "before": [],
+      "after": []
+    },
+    "autonomous-sync-script": {
+      "before": [],
+      "after": []
+    },
+    "github-gem-seeker": {
+      "before": [],
+      "after": []
+    },
+    "organize-github-repos": {
+      "before": [],
+      "after": []
+    },
+    "using-git-worktrees": {
+      "before": [],
+      "after": []
+    },
+    "brainstorm-logos": {
+      "before": [],
+      "after": []
+    },
+    "brand-driven-ux-overhaul": {
+      "before": [],
+      "after": []
+    },
+    "canvas-design": {
+      "before": [],
+      "after": []
+    },
+    "excel-generator": {
+      "before": [],
+      "after": []
+    },
+    "frontend-design": {
+      "before": [],
+      "after": []
+    },
+    "inspirational-music-video-production": {
+      "before": [],
+      "after": []
+    },
+    "theme-factory": {
+      "before": [],
+      "after": []
+    },
+    "video-generator": {
+      "before": [],
+      "after": []
+    },
+    "multiplayer-game-builder": {
+      "before": [],
+      "after": []
+    },
+    "promo-code-system": {
+      "before": [],
+      "after": []
+    },
+    "realistic-ai-persona-builder": {
+      "before": [],
+      "after": []
+    },
+    "role-based-access-control": {
+      "before": [],
+      "after": []
+    },
+    "vertical-expansion-blueprint": {
+      "before": [],
+      "after": []
+    },
+    "manus-mcp-configurator": {
+      "before": [],
+      "after": []
+    },
+    "mcp-auto-recovery": {
+      "before": [],
+      "after": []
+    },
+    "mcp-builder": {
+      "before": [],
+      "after": []
+    },
+    "mcp-connector-tester": {
+      "before": [],
+      "after": []
+    },
+    "mcp-ecosystem-optimizer": {
+      "before": [],
+      "after": [
+        "mcp-builder",
+        "mcp-connector-tester"
+      ]
+    },
+    "voice-ai-integration": {
+      "before": [],
+      "after": []
+    },
+    "api-endpoint-builder": {
+      "before": [
+        "database-schema-generator"
+      ],
+      "after": [
+        "testing-framework",
+        "user-authentication-system"
+      ]
+    },
+    "database-schema-generator": {
+      "before": [],
+      "after": [
+        "api-endpoint-builder",
+        "testing-framework"
+      ]
+    },
+    "testing-framework": {
+      "before": [],
+      "after": [
+        "api-endpoint-builder",
+        "database-schema-generator"
+      ]
+    },
+    "deployment-automation": {
+      "before": [
+        "testing-framework"
+      ],
+      "after": [
+        "github-workflow-automation",
+        "error-monitoring-setup"
+      ]
+    },
+    "error-monitoring-setup": {
+      "before": [],
+      "after": [
+        "deployment-automation"
+      ]
+    },
+    "github-workflow-automation": {
+      "before": [],
+      "after": [
+        "deployment-automation"
+      ]
+    },
+    "analytics-dashboard": {
+      "before": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "after": []
+    },
+    "email-system-builder": {
+      "before": [
+        "database-schema-generator"
+      ],
+      "after": []
+    },
+    "feature-flag-system": {
+      "before": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "after": []
+    },
+    "user-authentication-system": {
+      "before": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "after": [
+        "testing-framework"
+      ]
+    },
+    "cron-job-scheduler": {
+      "before": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "after": []
+    },
+    "file-upload-system": {
+      "before": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "after": []
+    },
+    "notification-system": {
+      "before": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "after": [
+        "email-system-builder"
+      ]
+    },
+    "payment-integration": {
+      "before": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "after": [
+        "user-authentication-system"
+      ]
+    },
+    "search-implementation": {
+      "before": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "after": []
+    },
+    "doc-coauthoring": {
+      "before": [],
+      "after": []
+    },
+    "docx": {
+      "before": [],
+      "after": []
+    },
+    "internet-skill-finder": {
+      "before": [],
+      "after": []
+    },
+    "pdf": {
+      "before": [],
+      "after": []
+    },
+    "pptx": {
+      "before": [],
+      "after": []
+    },
+    "project-handoff-ingestion": {
+      "before": [],
+      "after": []
+    },
+    "serverless-debugging": {
+      "before": [],
+      "after": []
+    },
+    "skill-creator": {
+      "before": [],
+      "after": []
+    },
+    "skill-demo-builder": {
+      "before": [],
+      "after": []
+    },
+    "xlsx": {
+      "before": [],
+      "after": []
+    },
+    "brainstorming": {
+      "before": [],
+      "after": [
+        "writing-plans",
+        "systematic-feature-builder"
+      ]
+    },
+    "dispatching-parallel-agents": {
+      "before": [],
+      "after": []
+    },
+    "executing-plans": {
+      "before": [],
+      "after": []
+    },
+    "feature-verification": {
+      "before": [],
+      "after": []
+    },
+    "finishing-a-development-branch": {
+      "before": [],
+      "after": []
+    },
+    "receiving-code-review": {
+      "before": [],
+      "after": []
+    },
+    "requesting-code-review": {
+      "before": [],
+      "after": []
+    },
+    "skill-development-workflow": {
+      "before": [],
+      "after": []
+    },
+    "subagent-driven-development": {
+      "before": [],
+      "after": []
+    },
+    "systematic-debugging": {
+      "before": [],
+      "after": []
+    },
+    "systematic-feature-builder": {
+      "before": [
+        "brainstorming",
+        "writing-plans"
+      ],
+      "after": []
+    },
+    "test-driven-development": {
+      "before": [],
+      "after": []
+    },
+    "verification-before-completion": {
+      "before": [],
+      "after": []
+    },
+    "writing-plans": {
+      "before": [
+        "brainstorming"
+      ],
+      "after": [
+        "systematic-feature-builder"
+      ]
+    },
+    "app-store-submission-packager": {
+      "before": [],
+      "after": []
+    },
+    "digital-product-inventor": {
+      "before": [],
+      "after": []
+    },
+    "ios-testflight-github-actions": {
+      "before": [],
+      "after": []
+    },
+    "meta-ads-analyzer": {
+      "before": [],
+      "after": []
+    },
+    "full-stack-builder": {
+      "before": [],
+      "after": []
+    },
+    "debug-mining-engine": {
+      "before": [],
+      "after": []
+    },
+    "serverless-debugging-utility": {
+      "before": [],
+      "after": []
+    },
+    "skill-arsenal-builder": {
+      "before": [],
+      "after": []
+    },
+    "work-access-demo-generator": {
+      "before": [],
+      "after": []
+    }
+  },
+  "author": "Tehseen Tech",
+  "maintainer": "Tehseen Tech",
+  "brand": "Tehseen Tech",
+  "description": "A Tehseen Tech-maintained collection of reusable Manus AI agent skills with automatic discovery and workflow composition."
+}

@@ -1,0 +1,19 @@
+{
+  "total_skill_files": 128,
+  "by_root": {
+    "/home/ubuntu/manus-skills": 78,
+    "/home/ubuntu/skills": 50
+  },
+  "skill_error_count": 0,
+  "registry_error_count": 0,
+  "duplicate_names": {
+    "github-gem-seeker": 2,
+    "excel-generator": 2,
+    "video-generator": 2,
+    "serverless-debugging": 2,
+    "internet-skill-finder": 2,
+    "skill-creator": 2
+  },
+  "automatic_trigger_coverage": 128,
+  "registry_entries": 78
+}
