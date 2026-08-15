@@ -47,3 +47,8 @@ htmlcov/
 # Temporary files
 *.tmp
 .cache/
+
+# Local Manus task planning (do not publish)
+task_plan.md
+findings.md
+progress.md

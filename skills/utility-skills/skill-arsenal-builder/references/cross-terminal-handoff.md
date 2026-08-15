@@ -7,7 +7,7 @@
 
 ## The Scenario
 
-**Terminal 1** (Builder): Built complete skill sync system with 71 skills  
+**Terminal 1** (Builder): Built complete skill sync system with 78 skills
 **Terminal 2** (Receiver): Needs to access the same skills  
 
 ---
@@ -291,8 +291,8 @@ skill-install
 🚀 Installing Manus Skill Arsenal...
 📥 Cloning repository from GitHub...
 ✅ Cloned manus-skills repository
-✅ Installed 71 skills across 11 categories
-✅ Registry loaded: 71 skills
+✅ Installed 78 skills across 13 categories
+✅ Registry loaded: 78 skills
 🎯 Skills ready to use!
 ```
 
@@ -335,7 +335,7 @@ manus-skills/
 
 **One-command setup**:
 ```bash
-curl -fsSL https://raw.githubusercontent.com/abcnuts/manus-skills/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/TehseenTech/manus-skills/main/install-skills.sh | bash
 ```
 
 ### Phase 3: Auto-Detect Existing Installation

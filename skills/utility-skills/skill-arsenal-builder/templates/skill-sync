@@ -83,7 +83,7 @@ cat > .skill-sync-version << EOF
   "last_sync": "$(date -u +%Y-%m-%dT%H:%M:%SZ)",
   "skills_count": $SKILL_COUNT,
   "categories_count": $CATEGORY_COUNT,
-  "remote_url": "https://github.com/abcnuts/manus-skills"
+  "remote_url": "https://github.com/TehseenTech/manus-skills"
 }
 EOF
 

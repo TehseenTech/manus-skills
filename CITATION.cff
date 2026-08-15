@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use Tehseen Tech Manus Skills, please cite this release and link to the repository."
+title: "Tehseen Tech Manus Skills"
+version: 1.0.0
+date-released: 2026-08-16
+type: software
+abstract: "A public collection of 78 reusable Manus AI agent skills for research, development, automation, design, integrations, and repeatable workflows."
+authors:
+  - family-names: "Tech"
+    given-names: "Tehseen"
+    affiliation: "Tehseen Tech"
+repository-code: "https://github.com/TehseenTech/manus-skills"
+url: "https://github.com/TehseenTech/manus-skills"
+license: MIT
+keywords:
+  - Manus AI
+  - agent skills
+  - AI agents
+  - workflow automation
+  - developer tools

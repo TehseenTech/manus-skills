@@ -23,7 +23,7 @@ log "📦 Installing skills..."
 
 # Configuration
 SKILLS_DIR="$HOME/skills"
-SKILLS_REPO="https://github.com/abcnuts/manus-skills.git"
+SKILLS_REPO="https://github.com/TehseenTech/manus-skills.git"
 SHELL_RC="$HOME/.bashrc"
 
 # Clone repository (silently)

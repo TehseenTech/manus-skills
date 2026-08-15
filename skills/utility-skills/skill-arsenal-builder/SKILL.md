@@ -448,7 +448,7 @@ python3 -c "import sys; sys.path.insert(0, '/home/ubuntu/skills'); from lib.skil
 
 ---
 
-## Example: Building a 71-Skill Arsenal
+## Example: Building a 78-Skill Arsenal
 
 **Starting point**: 55 scattered skills  
 **Goal**: Unified, discoverable, cross-terminal arsenal  
@@ -464,10 +464,10 @@ python3 -c "import sys; sys.path.insert(0, '/home/ubuntu/skills'); from lib.skil
 8. Tested 100% (all tests passed)
 
 **Result**:
-- 71 skills across 12 categories
+- 78 skills across 13 categories
 - 8-second setup for new terminals
 - Automatic cross-terminal sync
-- 85-90% time savings on projects
+- A reusable registry, discovery layer, and synchronization workflow
 
 **Time**: 2 weeks (with Phase 4)
 
@@ -484,7 +484,7 @@ python3 -c "import sys; sys.path.insert(0, '/home/ubuntu/skills'); from lib.skil
 
 ## Notes
 
-- This skill captures the complete process used to build the 71-skill unified arsenal
+- This skill captures the complete process used to organize the 78-skill Tehseen Tech unified arsenal
 - Includes lessons learned from actual cross-terminal deployment
 - All scripts and templates are battle-tested and production-ready
 - The 5-phase process is systematic and repeatable

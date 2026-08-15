@@ -1,0 +1,32 @@
+name: Validate Manus Skills
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Validate registry and skill contract
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate 78-skill repository
+        run: python scripts/validate-repository.py
+
+      - name: Validate JSON registry
+        run: python -m json.tool skills.json >/dev/null
+
+      - name: Validate shell scripts
+        run: bash -n install-skills.sh auto-install-skills.sh skills-quick-ref.sh scripts/enable-auto-skill-updates.sh

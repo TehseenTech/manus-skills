@@ -1,0 +1,60 @@
+name: Feature request
+description: Propose a new skill, a registry improvement, or a documentation and workflow enhancement.
+title: "feat: "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Strong proposals describe the user outcome, matching requests, and how the change would fit the existing skill contract. Please do not include private client information or secrets.
+  - type: dropdown
+    id: proposal-type
+    attributes:
+      label: Proposal type
+      options:
+        - New skill
+        - Existing skill improvement
+        - Registry or validation improvement
+        - Documentation or installation improvement
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: User problem
+      description: What repeatable outcome is currently difficult or missing?
+    validations:
+      required: true
+  - type: textarea
+    id: proposed-solution
+    attributes:
+      label: Proposed solution
+      description: Describe the skill or change, including likely inputs, outputs, and boundaries.
+    validations:
+      required: true
+  - type: textarea
+    id: matching-context
+    attributes:
+      label: Matching requests
+      description: Give examples of requests that should activate or benefit from the proposal.
+      placeholder: |
+        - When the user asks to ...
+        - When the user needs ...
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Explain how existing skills or workflows were checked and why they are insufficient.
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Proposal checklist
+      options:
+        - label: I searched the registry and existing issues first.
+          required: true
+        - label: I have not included secrets or private user data.
+          required: true

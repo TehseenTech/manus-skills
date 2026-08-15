@@ -55,7 +55,7 @@ echo "╔═══════════════════════�
 echo "║           Manus Skill Arsenal Status                      ║"
 echo "╚════════════════════════════════════════════════════════════╝"
 echo
-echo "Repository:    https://github.com/abcnuts/manus-skills"
+echo "Repository:    https://github.com/TehseenTech/manus-skills"
 echo "Local Path:    $SKILLS_DIR"
 echo "Version:       $COMMIT_SHORT ($COMMIT_DATE)"
 echo "Last Sync:     $LAST_SYNC_RELATIVE"

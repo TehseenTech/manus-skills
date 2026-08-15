@@ -1,6 +1,6 @@
 #!/bin/bash
 # Automated Skill Arsenal Installer
-# This script sets up your 71-skill arsenal in any terminal automatically
+# This script sets up the 78-skill Tehseen Tech arsenal in any terminal automatically
 
 set -e
 
@@ -10,7 +10,7 @@ echo ""
 
 # Configuration
 SKILLS_DIR="$HOME/skills"
-SKILLS_REPO="https://github.com/abcnuts/manus-skills.git"
+SKILLS_REPO="https://github.com/TehseenTech/manus-skills.git"
 SHELL_RC="$HOME/.bashrc"
 
 # Detect shell
@@ -76,7 +76,7 @@ skill() {
 
 # List all skills
 skills-list() {
-    echo "🎯 Your Skill Arsenal (71 skills)"
+    echo "🎯 Your Tehseen Tech Skill Arsenal (78 skills)"
     echo "========================================"
     echo ""
     

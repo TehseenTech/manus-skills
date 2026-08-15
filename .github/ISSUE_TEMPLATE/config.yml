@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Support and usage questions
+    url: https://github.com/TehseenTech/manus-skills/blob/main/SUPPORT.md
+    about: Read the support guide before opening a public issue.
+  - name: Security reports
+    url: https://github.com/TehseenTech/manus-skills/security/advisories/new
+    about: Report suspected vulnerabilities privately; do not post sensitive details publicly.
+  - name: Contribution guide
+    url: https://github.com/TehseenTech/manus-skills/blob/main/CONTRIBUTING.md
+    about: Learn how to propose a validated skill or documentation improvement.

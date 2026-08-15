@@ -17,7 +17,7 @@ if [ ! -d "$SKILLS_DIR" ]; then
     echo "❌ Skills directory not found at $SKILLS_DIR"
     echo ""
     echo "Please install manus-skills first:"
-    echo "  curl -sSL https://raw.githubusercontent.com/abcnuts/manus-skills/main/auto-install-skills.sh | bash"
+    echo "  curl -sSL https://raw.githubusercontent.com/TehseenTech/manus-skills/main/auto-install-skills.sh | bash"
     exit 1
 fi
 

@@ -11,9 +11,9 @@
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                    CENTRAL HUB (GitHub)                     │
-│         https://github.com/abcnuts/manus-skills             │
+│         https://github.com/TehseenTech/manus-skills             │
 │                                                             │
-│  - 71 skills across 12 categories                          │
+│  - 78 skills across 13 categories                          │
 │  - skills.json registry                                    │
 │  - Shared utilities (lib/)                                 │
 │  - Meta-skills                                             │
@@ -50,7 +50,7 @@
 
 ### 1. GitHub as Single Source of Truth
 
-**Central Repository**: `https://github.com/abcnuts/manus-skills`
+**Central Repository**: `https://github.com/TehseenTech/manus-skills`
 
 All skills are stored in GitHub, which serves as:
 - **Version control** - Track changes over time
@@ -96,7 +96,7 @@ skill-install
 ```
 
 **What it does**:
-1. Clones `abcnuts/manus-skills` to `/home/ubuntu/skills/`
+1. Clones `TehseenTech/manus-skills` to `/home/ubuntu/skills/`
 2. Sets up Python path for skill utilities
 3. Creates sync scripts in `/usr/local/bin/`
 4. Records initial version
@@ -105,7 +105,7 @@ skill-install
 **Expected output**:
 ```
 ✅ Cloned manus-skills repository
-✅ Installed 71 skills across 12 categories
+✅ Installed 78 skills across 13 categories
 ✅ Set up sync scripts
 ✅ Current version: abc123def (2026-02-11)
 🎯 Skills ready to use!
@@ -186,13 +186,13 @@ skill-status
 ```
 Skill Arsenal Status
 --------------------
-Repository: https://github.com/abcnuts/manus-skills
+Repository: https://github.com/TehseenTech/manus-skills
 Local Path: /home/ubuntu/skills/
 Version: abc123def (2026-02-11)
 Last Sync: 2 hours ago
 
-Skills Installed: 71
-Categories: 12
+Skills Installed: 78
+Categories: 13
 Meta-Skills: 1
 
 Status: ✅ Up to date
@@ -230,9 +230,9 @@ Status: ✅ Up to date
   "version": "abc123def456",
   "commit_hash": "abc123def456",
   "last_sync": "2026-02-11T23:49:00Z",
-  "skills_count": 71,
-  "categories_count": 12,
-  "remote_url": "https://github.com/abcnuts/manus-skills"
+  "skills_count": 78,
+  "categories_count": 13,
+  "remote_url": "https://github.com/TehseenTech/manus-skills"
 }
 ```
 
@@ -362,7 +362,7 @@ skill-sync
 # One command to get everything
 skill-install
 
-# All 71 skills are now available
+# All 78 skills are now available
 # Can start using immediately
 ```
 
@@ -461,12 +461,12 @@ skill-install
 
 ## Summary
 
-**Central Hub**: GitHub (`abcnuts/manus-skills`)  
+**Central Hub**: GitHub (`TehseenTech/manus-skills`)
 **Local Cache**: `/home/ubuntu/skills/` in each terminal  
 **Sync Method**: Git pull/push via simple commands  
 **Update Detection**: Version tracking with commit hashes  
 
-**Result**: All Manus terminals can access the same 71-skill arsenal with one command!
+**Result**: All Manus terminals can access the same 78-skill arsenal with one command!
 
 ---
 

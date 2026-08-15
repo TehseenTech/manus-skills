@@ -78,7 +78,7 @@ results = composer.execute_workflow(workflow, {"description": "My SaaS App"})
 
 - Without meta-skill: 30-35 hours of manual work
 - With meta-skill: 4-5 hours of guided work
-- **Savings:** 85-90% time reduction
+- **Benefit:** Replaces repeated setup decisions with a documented, reusable build sequence
 
 ## Dependencies
 

@@ -1,8 +1,8 @@
 {
-  "version": "5597dfc8d541",
-  "commit_hash": "5597dfc8d541c2b9b33265c4192b3c96287be863",
-  "last_sync": "2026-02-12T06:05:52Z",
-  "skills_count": 71,
-  "categories_count": 11,
-  "remote_url": "https://github.com/abcnuts/manus-skills"
+  "version": "1.0.0",
+  "commit_hash": "5996f296fa09d6f7fd4a833188f176e3062ff1c8",
+  "last_sync": "2026-08-16T00:00:00Z",
+  "skills_count": 78,
+  "categories_count": 13,
+  "remote_url": "https://github.com/TehseenTech/manus-skills"
 }

@@ -9,7 +9,7 @@
 set -e
 
 SKILLS_DIR="/home/ubuntu/skills"
-REPO_URL="https://github.com/abcnuts/manus-skills"
+REPO_URL="https://github.com/TehseenTech/manus-skills"
 SYNC_SCRIPTS_DIR="/home/ubuntu/skill-sync-system"
 
 echo "🚀 Installing Manus Skill Arsenal..."
@@ -24,7 +24,7 @@ fi
 
 # Clone repository
 echo "📥 Cloning repository from GitHub..."
-if gh repo clone abcnuts/manus-skills "$SKILLS_DIR"; then
+if gh repo clone TehseenTech/manus-skills "$SKILLS_DIR"; then
     echo "✅ Cloned manus-skills repository"
 else
     echo "❌ Failed to clone repository"

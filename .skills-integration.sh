@@ -35,7 +35,7 @@ skill() {
 
 # List all skills
 skills-list() {
-    echo "🎯 Your Skill Arsenal (71 skills)"
+    echo "🎯 Your Tehseen Tech Skill Arsenal (78 skills)"
     echo "========================================"
     echo ""
     
