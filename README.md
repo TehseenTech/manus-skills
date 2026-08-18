@@ -1,6 +1,6 @@
 # Tehseen Tech · Manus Skills
 
-> **78 reusable Manus AI agent skills for research, development, automation, design, integrations, and repeatable workflows—discoverable from the user’s request instead of a memorized skill name.**
+> **78 reusable Manus AI agent skills for AI agents, workflow automation, research, development, design, integrations, and repeatable workflows—discoverable from the user’s request instead of a memorized skill name.**
 
 [![78 skills](https://img.shields.io/badge/skills-78-1B5E20)](skills.json)
 [![Automatic discovery](https://img.shields.io/badge/discovery-automatic-C2185B)](skills.json)
@@ -33,7 +33,7 @@ The installer is optional. You can also read any `SKILL.md` directly, use the ca
 
 ## What this collection does
 
-Manus Skills are reusable instruction packages that combine a request-oriented description with workflows, scripts, references, templates, and validation guidance. The collection is designed for agents that support skill discovery and composition. You describe the outcome you need; the matching skill can be considered automatically when the request fits its capability.
+Manus Skills are reusable instruction packages for AI agents that combine a request-oriented description with workflows, scripts, references, templates, and validation guidance. The collection supports automatic skill discovery and composition for research, software development, workflow automation, content, data, and operations. You describe the outcome you need; the matching skill can be considered automatically when the request fits its capability.
 
 > **Automatic-discovery contract:** Apply automatically when the request matches; the user does not need to mention this skill.
 
@@ -72,7 +72,7 @@ The [`skills.json`](skills.json) file is the canonical registry for names, descr
 | Workflow | 14 |
 | Meta-skills | 1 |
 
-For a compact catalog, open [`skills-quick-ref.sh`](skills-quick-ref.sh). For architecture and composition details, read [`ARCHITECTURE.md`](ARCHITECTURE.md). For the complete release inventory, download the [Tehseen Tech Manus Skills PDF report](docs/tehseen-tech-manus-skills-report.pdf).
+For a compact catalog, open [`skills-quick-ref.sh`](skills-quick-ref.sh). For architecture and composition details, read [`ARCHITECTURE.md`](ARCHITECTURE.md). For outcome-based discovery, use [`docs/skill-finder.md`](docs/skill-finder.md). For the complete release inventory, download the [Tehseen Tech Manus Skills PDF report](docs/tehseen-tech-manus-skills-report.pdf).
 
 ## Compose a workflow
 
