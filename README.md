@@ -1,5 +1,6 @@
 # Tehseen Tech · Manus Skills
 
+<p align="center"><strong>AI WORKFLOW SYSTEM / AUTOMATION / RESPONSIBLE USE</strong></p>
 > **78 reusable Manus AI agent skills for AI agents, workflow automation, research, development, design, integrations, and repeatable workflows—discoverable from the user’s request instead of a memorized skill name.**
 
 [![78 skills](https://img.shields.io/badge/skills-78-1B5E20)](skills.json)
@@ -9,6 +10,10 @@
 [![Latest release](https://img.shields.io/github/v/release/TehseenTech/manus-skills?display_name=tag&sort=semver)](https://github.com/TehseenTech/manus-skills/releases)
 
 **Maintained, validated, and packaged by [Tehseen Tech](TEHSEEN_TECH.md).** If this collection saves you time, [star the repository](https://github.com/TehseenTech/manus-skills), share a specific use case, or propose a skill that is missing.
+
+## Safe use note
+
+Skills are instruction and workflow packages, not a substitute for human review, authorization, or professional judgment. Review scripts, credentials, external-service assumptions, and generated actions before using them in production or security-sensitive work.
 
 ## Start in one minute
 
